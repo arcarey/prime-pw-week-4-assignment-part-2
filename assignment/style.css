@@ -4,6 +4,7 @@ body{
     flex-direction: column;
     padding: 10px;
     margin: 5px;
+    background-color: skyblue;
 }
 
 header {
@@ -28,5 +29,5 @@ header {
 }
 #bikeDescript{
     background-color: rgb(52, 52, 52);
-    color: antiquewhite;
+    color: whitesmoke;
 }
